@@ -355,39 +355,3 @@ tr:hover td {
 ::-webkit-scrollbar-thumb:hover {
     background: var(--text-dim);
 }
-
-/* Mobile Responsiveness */
-@media (max-width: 768px) {
-    body {
-        flex-direction: column;
-    }
-
-    .sidebar {
-        width: 100%;
-        height: auto;
-        padding: 1rem;
-        flex-direction: row;
-        overflow-x: auto;
-        border-right: none;
-        border-bottom: 1px solid var(--glass-border);
-    }
-
-    .nav-links {
-        flex-direction: row;
-    }
-
-    .nav-item {
-        white-space: nowrap;
-    }
-
-    .logo {
-        margin-bottom: 0;
-        margin-right: 2rem;
-        font-size: 1.2rem;
-    }
-
-    .main-content {
-        height: calc(100vh - 80px);
-        /* Approx sidebar height */
-    }
-}
