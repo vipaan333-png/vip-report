@@ -1,6 +1,7 @@
 const CONFIG = {
     SPREADSHEET_ID: '1VBRu1e8EvQinHU99nhY-9o5tb6r7QeVdRGpWbx8Jkoo',
     SHEETS: [
+        "REPORT MIX",
         "LAPORAN DIOS SAPRI",
         "TM",
         "SO ADI",
