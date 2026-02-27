@@ -14,7 +14,7 @@ const CONFIG = {
         "SO RUSLAN",
         "SO SAPRI",
         "SO SARI RIDHA",
-        "SO SARI VIS"
+        "SO YULI VIS"
     ]
 };
 
