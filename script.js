@@ -6,7 +6,7 @@ const CONFIG = {
         "TM",
         "SO ADI",
         "SO HERY",
-        "SO DHARMA",
+        "SO IRMA",
         "SO HALIFAH",
         "SO NURDIN",
         "SO NUR",
